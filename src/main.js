@@ -3,6 +3,10 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
+// 导入vant
+import './plugins/vant'
+// 导入 lib-flexible
+import 'amfe-flexible'
 // 导入全局样式表
 import './style/index.less'
 
